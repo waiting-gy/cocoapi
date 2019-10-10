@@ -306,4 +306,3 @@ def frPyObjects(pyobj, h, w):
     else:
         raise Exception('input type is not supported.')
     return objs
-© 2019 GitHub, Inc.
